@@ -22,31 +22,31 @@ Through visual analysis, it examines:
 ## 📈 Visualizations
 
 ### 1. Do Certain Positions Score More Points?
-![Positions vs Points](Story1.png)  
+![Positions vs Points](Story%201.png)  
 Forward/Guard players have the highest average points per game, while Centers score the least on average.
 
 ---
 
 ### 2. Can We Group Great Scorers by Performance?
-![Performance Clusters](Story2.png)  
+![Performance Clusters](Story%202.png)  
 Clustering reveals two groups — elite scorers with high efficiency and consistent players with moderate efficiency.
 
 ---
 
 ### 3. Do Longevity and Consistency Matter?
-![Longevity and Points](Story3.png)  
+![Longevity and Points](Story%203.png)  
 Top scorers like LeBron James and Kareem Abdul-Jabbar maintained high output over 18–21 year careers.
 
 ---
 
 ### 4. What Positions Make It to the Hall of Fame?
-![Hall of Fame Positions](Story4.png)  
+![Hall of Fame Positions](Story%204.png)  
 Guards dominate Hall of Fame inductions, highlighting the role’s historical importance.
 
 ---
 
 ### 5. Has Player Efficiency Changed Over the Decades?
-![Efficiency Over Time](Story5.png)  
+![Efficiency Over Time](Story%205.png)  
 Players debuting after the 1990s show higher average efficiency ratings (PER).
 
 ---
