@@ -54,6 +54,7 @@ Players debuting after the 1990s show higher average efficiency ratings (PER).
 ## 🛠 Tools & Technologies
 
 - **Tableau** – Dashboard creation & storytelling.
-- **NBA Stats Data** – Player stats, efficiency, and career data.
+- **NBA Stats Data** – Player stats, efficiency, and career data. 
+- **Data** – [Data from kaggle](https://www.kaggle.com/datasets/flynn28/v2-nba-player-database)
 
 ---
